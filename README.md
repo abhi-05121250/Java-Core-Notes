@@ -7,5 +7,43 @@ Feel free to use, adapt, and contribute. As they say, "Gyan baatne se badhta hai
 Stay tuned for weekly updates and happy coding! 👩‍💻👨‍💻
 
 ## Contents
-<img src="https://github.com/user-attachments/assets/62694544-fce0-4879-b801-6b61d924527b" alt="image" width="500">
+| Level       | Topics                                                                 |
+|-------------|------------------------------------------------------------------------|
+| **Basics**      | - JDK, JRE, & JVM                                                      |
+|             | - What is Java? (History)                                              |
+|             | - Introduction to IDEs and Comments and Documentation                  |
+|             | - Data Types                                                           |
+|             | - Variables                                                            |
+|             | - Looping Statements                                                   |
+|             | - Conditional Statements                                               |
+|             | - OOPs Concept                                                         |
+|             | - Arrays                                                               |
+|             | - Strings                                                              |
+|             | - Exception Handling                                                   |
+|             | - Input/ Output Operations & File I/O Operations                       |
+|             | - Inheritance                                                          |
+|             | - Polymorphism                                                         |
+| **Intermediate**| - Generics                                                             |
+|             | - Collections 
+|             | - Inner Classes and Java 8 Features 
+|             | - Multithreading                                                       |
+|             | - Concurrency                                                          |
+|             | - Java Networking                                                      |
+|             | - JDBC                                                                 |                                                                                       
+|             | - Enumerations                                                         |
+|             | - Annotations                                                          |                                                
+|             | - Serialization                                                        |
+|             | - Deserialization                                                      |
+| **Advanced**    | - Multithreading (Advanced)                                         |
+|             | - JDBC Operations (Advanced)                                           |
+|             | - Lambda Expressions                                                   |
+|             | - Streams                                                              |
+|             | - Data Structures                                                      |
+|             | - Reflections in Java                                                  |
+|             | - Advanced Debugging                                                   |
+|             | - Advanced Exception Handling                                          |
+|             | - Security in Java Applications                                        |
+|             | - Performance & Optimization                                           |
+|             | - JVM Tuning, Memory Management (Optional)                             |
+
 
